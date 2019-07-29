@@ -29,7 +29,7 @@ layout: true
 
 
 ---
-## Qui sommes nous ?
+## Qui sommes-nous ?
 
 <BR><BR><BR><BR>
 
@@ -39,7 +39,7 @@ layout: true
 
 
 ---
-## Qui sommes nous ?
+## Qui sommes-nous ?
 
 - Datactivist est un .red[**pure player de l’open data**] créé en 2016, par Samuel Goëta et Joël Gombin.
 
@@ -68,13 +68,13 @@ layout: true
 
 ### D'un open data de l'offre à un .red[open data de la demande]
 
-Aujourd’hui, les administrations choisissent quelles données à ouvrir, quand et du comment .red[**sans consulter les usager·ère·s**].
+Aujourd’hui, les administrations choisissent quelles données à ouvrir, quand et comment .red[**sans consulter les usager·ère·s**].
 
 Les rares données ouvertes sont souvent décevantes : pas à jour, trop agrégées, mal documentées, mal formatées... parfois inutilisables. 
 
 Il faut aujourd’hui passer à l’étape supérieure : .red[**un open data piloté par la demande**].
 
-Mais c'est difficile du fait de limites internes et externes aux organisations. Sans compter les freins culturels.
+C'est difficile du fait de limites internes et externes aux organisations. Sans compter les freins culturels.
 
 Mais les moyens d'action existent : demandes d'ouverture, plateformes, animations (ex : hackathon), gouvernance partagée...
 
@@ -88,7 +88,7 @@ class: inverse, center, middle
 ---
 
 ## Notre constat
-### Un potentiel sous exploité
+### Un potentiel sous-exploité
 
 Notre pratique de l'open data dans divers champs (suivi des politiques publiques, comparaisons internationales, journalisme, etc.) nous a convaincu qu'il constituait un puissant levier :
 * de .red[connaissance] par la documentation des faits politiques, sociaux, environnementaux ... ;
@@ -106,13 +106,13 @@ Notre pratique de l'open data dans divers champs (suivi des politiques publiques
 
 ### Des freins culturels et structurels
 
-Pour évaluer le besoin, nous avons organisé des rencontres avec des représentant·e·s d'ONGs engagé·e·s sur différents terrains (droit des femmes, écologie, justice fiscale, santé ...). Ces échanges nous ont permis de prendre conscience d'un enjeu sous estimé : avant même que se présente la problématique de la découverte ou de la réutilsation des données, **la faible culture de la donnée prive beaucoup d'organisation de l'idée même de sa pertinence**.
+Pour évaluer le besoin, nous avons organisé des rencontres avec des représentant·e·s d'ONGs engagé·e·s sur différents terrains (droit des femmes, écologie, justice fiscale, santé ...). Ces échanges nous ont permis de prendre conscience d'un enjeu sous-estimé : avant même que se présente la problématique de la découverte ou de la réutilisation des données, **la faible culture de la donnée prive beaucoup d'organisation de l'idée même de sa pertinence**.
 
 Nous avons tiré de ces réflexions un cheminement en quatre étapes, constituant des "points d'entrées" dans la réflexion quant à l'usage de la donnée :
-1. *en quoi la donnée est-elle pertinente ?*
-2. *puis-je en tirer un objet impactant ?*
-3. *où et comment la trouver ?*
-4. *comment traiter la traiter ?*
+1. *En quoi la donnée est-elle pertinente ?*
+2. *Puis-je en tirer un objet impactant ?*
+3. *Où et comment la trouver ?*
+4. *Comment la traiter ?*
 
 --
 
@@ -157,16 +157,16 @@ class: inverse, center, middle
 ### 1. Analyse du besoin
 
 #### Demande
-Dans le cadre d'une campagne en faveur de la mise en place de "zone à faibles émissions" en Île-de-France, l'association pour la prévention et l'amélioration de la qualité de l'air **Respire** souhaitait réaliser une carte de la qualité de l'air aux abords des crèches et écoles de la région.
+Dans le cadre d'une campagne en faveur de la mise en place de "zones à faibles émissions" en Île-de-France, l'association pour la prévention et l'amélioration de la qualité de l'air **Respire** souhaitait réaliser une carte de la qualité de l'air aux abords des crèches et écoles de la région.
 
-Pour se faire, elle proposait de s'appuyer sur les donnés récemment proposées en open data par les associations agréées de surveillance de la qualité de l'air (Aasqa), notamment Airparif.
+Pour ce faire, elle proposait de s'appuyer sur les donnés récemment proposées en open data par les associations agréées de surveillance de la qualité de l'air (Aasqa), notamment Airparif.
 
 #### Première approche
 Au premier abord, les **données disponibles** semblaient recouper le **besoin**. Restait à réaliser un .red[**diagnostic**] pour s'en assurer avant de passer à la .red[**réutilisation**], c'est-à-dire à la production de la carte, support de campagne.
 
 ---
 
-### 2. Ca se complique ...
+### 2. Ça se complique ...
 
 .pull-left[
 ![](./img/BugAirparif.png)
@@ -235,7 +235,7 @@ La carte a été reprise par de nombreux médias nationaux et a fait l'ouverture
 
 .pull-right[
 #### Politiques
-La carte a suscité des réactions de responsables politiques de premier plan, à commencer par la maire de Paris **Anne Hidalgo** ainsi que plusieurs élu·e·s locaux·ales du Grand-Paris et **François de Rugy**, ministre de l'Ecologie.
+La carte a suscité des réactions de responsables politiques de premier plan, à commencer par la maire de Paris **Anne Hidalgo** ainsi que plusieurs élu·e·s locaux·ales du Grand Paris et **François de Rugy**, ministre de l'Écologie.
 
 #### Publiques
 La carte a été consultée plus de 10000 fois en 24 heures et la pétition qui y était liée a recueilli plus de 22000 signatures en deux semaines. Des parents d'élèves, associations et autres organisations ont sollicité Respire pour des campagnes ciblées.
@@ -270,7 +270,7 @@ Datactivist réunit des compétences et profils variés à même de couvrir la m
 
 Société coopérative, Datactivist s'inscrit dans le mouvement de l'open data dans sa dimension technique mais aussi politique.
 
-**Au delà d'une simple responsabilité sociale, notre démarche "Données plaidoyer" entend faciliter l'entrée des organisations de défense de l'intérêt général dans la communauté des données ouvertes pour en faire un nouveau levier d'information, de mobilisation et d'action collective**.
+**Au-delà d'une simple responsabilité sociale, notre démarche "Données plaidoyer" entend faciliter l'entrée des organisations de défense de l'intérêt général dans la communauté des données ouvertes pour en faire un nouveau levier d'information, de mobilisation et d'action collective**.
 
 <BR><BR>
 
