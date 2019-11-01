@@ -29,7 +29,7 @@ layout: true
 
 
 ---
-## Qui sommes nous ?
+## Qui sommes-nous ?
 
 <BR><BR><BR><BR>
 
@@ -39,7 +39,7 @@ layout: true
 
 
 ---
-## Qui sommes nous ?
+## Qui sommes-nous ?
 
 - Datactivist est un .red[**pure player de l’open data**] créé en 2016, par Samuel Goëta et Joël Gombin.
 
@@ -68,13 +68,13 @@ layout: true
 
 ### D'un open data de l'offre à un .red[open data de la demande]
 
-Aujourd’hui, les administrations choisissent quelles données à ouvrir, quand et du comment .red[**sans consulter les usager·ère·s**].
+Aujourd’hui, les administrations choisissent quelles données à ouvrir, quand et comment .red[**sans consulter les usager·ère·s**].
 
 Les rares données ouvertes sont souvent décevantes : pas à jour, trop agrégées, mal documentées, mal formatées... parfois inutilisables. 
 
 Il faut aujourd’hui passer à l’étape supérieure : .red[**un open data piloté par la demande**].
 
-Mais c'est difficile du fait de limites internes et externes aux organisations. Sans compter les freins culturels.
+C'est difficile du fait de limites internes et externes aux organisations. Sans compter les freins culturels.
 
 Mais les moyens d'action existent : demandes d'ouverture, plateformes, animations (ex : hackathon), gouvernance partagée...
 
@@ -83,11 +83,272 @@ Mais les moyens d'action existent : demandes d'ouverture, plateformes, animation
 
 class: inverse, center, middle
 
-# "Données plaidoyer"
+# Données et OSCs : notre constat
 
 ---
 
-## WIP
+## Opportunités
+
+### Un potentiel sous-exploité
+
+Notre pratique de l'open data dans divers champs (suivi des politiques publiques, comparaisons internationales, journalisme, etc.) nous a convaincu qu'il constituait un puissant levier :
+* de .red[connaissance] par la documentation des faits politiques, sociaux, environnementaux ... ;
+* de .red[mobilisation] par l'exposition des sources et la capacitation du public ;
+* de .red[redevabilité] par la confrontation des producteur·rice·s à leurs responsabilités vis-à-vis de la société.
+
+**Alors que le fonctionnement des ONGs procède voire dépend de ces trois leviers d'action politique, elles se saisissent peu voire pas de l'open data.**
+
+---
+
+## Freins
+
+Des échanges et collaborations avec de nombreuses ONGs et OSCs dans des domaines variés (environnementaux, justice sociale, droits des femmes, aide au développement, syndicats ...) nous ont permis d'identifier plusieurs freins structurels à la mobilisation de la donnée dans la démarche de plaidoyer :
+
+1. une culture du plaidoyer juridique, de terrain ... peu chiffrée ;
+2. des modes de communication inadaptés (formats, canaux, publics...) ;
+3. la forte redevabilité vis-à-vis des donnateur·rice·s ;
+4. les priorités de campagne orientées vers la production d'argumentaires plus que de supports ;
+5. l'absence de compétences internes (ou dans des postes liés au budget ou à la communauté)
+6. la difficulté de budgeter ces dépenses.
+
+--
+
+Au croisement de ces difficultés, un facteur commun ou agravant nous apparaît de manière critante : **.red[le manque courant d'une véritable culture de la donnée dans les organisations]**.
+
+---
+
+### Culture de la donnée
+
+.pull-left[La "**culture de la donnée**" (ou "**.red[data literacy]**") recouvre les compétences théoriques et pratiques permettant de comprendre et manipuler les données en elles-mêmes et de les replacer dans leur contexte de production, d'utilisation et de diffusion.
+
+![80%](./img/DIKW_Pyramid.svg)
+]
+
+.pull-right[Dans le contexte des organisations de la société civile, la culture de la donnée renvoie aux connaissances et méthodes nécessaires à la compréhension du lien entre les problématiques politiques qu'elles traitent et les données existantes ou productibles permettant de mieux comprendre les phénomènes ou les politiques censées les influencer.
+
+**La culture de la donnée constitue ainsi une compétence charnière entre l'expertise des organisations et les nouvelles sources d'information et modes de production de preuve en jeu dans les débats publics.**
+]
+
+---
+
+## Besoins de données
+
+Outre la diversité des sujets et des usages attendus, les typologies de recherche de données que nous avons pu identifier au travers les besoins de plaidoyer des ONGs variaient suivant trois paramètres :
+1. **l'identification des sources** : là où certaines organisations avaient déjà en tête une liste précise, d'autres doutaient même de l'existence de bases de données rassemblant les données recherches ;
+2. **la dispersion de l'information** : par leur étendue thématique, historique, spatiale ou politique, certaines recherches nécessitaient structurellement un très grand nombre de sources, soit hétérogènes, soit très variées (que ce soit en format ou en producteur) ;
+3. **la définition des cibles** : les critères de définition des "cibles" variaient en précision. Soit parce que les méthodes de compilation brouillaient le lien entre entité réelle et donnée répertoriée. Soit parce que le résultat même de la recherche devait aider à préciser la nature du mécanisme.
+
+--
+
+Nous avons résumé ces typologies en quatre cas types, correspondant à des problématiques évoquées par nos interlocuteur·rice·s.
+
+
+---
+
+#### Une aiguille dans une meule de foin
+
+Les critères de recherche sont clairs mais la source est vaste et trop abondante pour être traitée manuellement.
+
+![](./img/aiguille_foin_1.jpg)
+
+
+---
+
+#### Une aiguille dans plusieurs bottes de foin
+
+Les informations à trouver sont bien déterminée mais les sources sont multiples en formats et en organisation : au temps de recherche manuel s'ajoute des modalités de comparaison.
+
+![](./img/aiguille_foin_2.jpeg)
+
+---
+
+#### Une aiguille dans un champs de blé
+
+La forme des information à récolter est définie mais aucune source n'est constituée a priori : des sources existent de manière disparate sans forcément de référentiel commun, ni de standard (articles de presse, publications officielles, post sur les réseaux sociaux, etc.)
+
+![](./img/aiguille_foin_3.jpeg)
+
+---
+
+#### Des objets métalliques pointus de formes indéterminées dans des surfaces en polyculture maraichère
+Le type d'information à collecter n'est pas clairement définie dans sa forme et la nature des sources possibles non plus. Le problème n'est plus seulement ici de réaliser la recherche mais d'établir la forme des données existantes sur le sujet et d'établir le périmètre de recherche pour les trouver.
+
+.center[
+![](img/aiguille_foin_4.jpeg)
+]
+
+.footnote[Note : ces illustrations sont tirées des performances de l'artiste italien [Sven Sachsalber](https://www.francetvinfo.fr/culture/apres-l-artiste-plus-de-17-heures-de-recherche-l-artiste-sven-sachsalber-a-trouve-une-aiguille-dans-une-botte-de-foin_744837.html).]
+
+---
+
+## Usages de la donnée
+
+
+
+---
+
+class: inverse, center, middle
+
+# Notre offre de service : Données plaidoyer
+
+---
+
+## Des briques pour faire du sur mesure
+
+
+
+---
+
+## Brique 1 : formation - sensibilisation
+
+.pull_left[
+DESCRIPTION
+]
+
+.pull_right[
+FICHE PRODUIT
+* outils
+* intervenant·e·s
+* livrables
+* unité (?)
+]
+
+---
+
+## Brique 2 : conciergerie de données
+
+.pull_left[
+DESCRIPTION
+]
+
+.pull_right[
+FICHE PRODUIT
+]
+
+---
+
+## Brique 3 : outillage de recherche
+
+.pull_left[
+DESCRIPTION
+]
+
+.pull_right[
+FICHE PRODUIT
+]
+
+
+---
+
+## Brique 4 : outillage de plaidoyer
+
+.pull_left[
+DESCRIPTION
+]
+
+.pull_right[
+FICHE PRODUIT
+]
+
+
+---
+
+## Brique 5 : production de supports et contenus
+
+.pull_left[
+DESCRIPTION
+]
+
+.pull_right[
+FICHE PRODUIT
+]
+
+
+---
+
+## Brique 6 : conseil juridique
+
+.pull_left[
+DESCRIPTION
+]
+
+.pull_right[
+FICHE PRODUIT
+]
+
+
+---
+
+## Modularité
+
+* on peut faire un devis sur mesure
+* un ou plusieurs briques
+* 
+
+
+---
+
+## La touche Datactivist
+
+* on mange notre propre pâté vegan
+* on vous fait manger votre pâté vegan
+* et vous aimerez ça parce que c'est bon le pâté vegan quand c'est bien fait
+
+---
+
+class: inverse, center, middle
+
+# Financement
+
+---
+
+## Business modèle de Données plaidoyer
+
+---
+
+## Abonnement
+
+---
+
+## Financement collectif
+
+---
+
+## Financement individuel
+
+
+---
+
+class: inverse, center, middle
+
+# Nos expériences
+
+---
+
+class: inverse, center, top
+
+### De l'air pour nos enfants
+#### Respire
+
+![](./img/respire-delair-logo.jpg)
+
+
+---
+
+class: inverse, center, middle
+
+background-image: url("./img/ccfdsherpa_radarddv.png")
+
+### Le radar du devoir de vigilance
+#### CCFD Terres Solidaires - Sherpa
+
+---
+
+# Mener un projet données plaidoyer
+
+---
+
+# Notre équipe
 
 ---
 class: inverse, center, middle
