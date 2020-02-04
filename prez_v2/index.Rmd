@@ -133,11 +133,13 @@ Au croisement de ces difficultés, un facteur commun ou agravant nous apparaît 
 
 ### Les besoins liés à la donnée
 
-1.  `r emo::ji("woman_teacher")` `r emo::ji("man_teacher")` .red[**la formation / la sensibilisation**] : data literacy, modalité de recours, traitement et visualisation des données ... l'acquisition de ces compétences permet aux équipes de mieux identifier et comprendre le potentiel des données et de les mobiliser à propos en interne et en externe ;
-2.  `r emo::ji("male_detective")` `r emo::ji("flashlight")` .red[**la conciergerie**] : identifier les sources pertinentes, évaluer la qualité des données, trouver les bons jeux ... la traduction des besoins d'information en modalités de recherche alimente et consolide le travail de documentation en assurant la fiabilité des informations utilisées ;
-3.  `r emo::ji("man_mechanic")` `r emo::ji("wrench")` .red[**l'outillage**] : un moteur de recherche sur mesure, une "moulinette" pour structurer une veille ... les instruments alimentés par la donnée permettent d'automatiser des tâches courantes et de rendre accessibles les informations clefs de l'action ou du message des organisations ;
-4.  `r emo::ji("man_singer")` `r emo::ji("woman_singer")` .red[**la médiation**] : organiser un hackathon, structurer une opération de crowdsourcing ou monter une conférence permettent de structurer le lien avec le grand public ou une communauté spécifique autour de la donnée ;
-5.  `r emo::ji("tipping_hand_woman")` `r emo::ji("information")` .red[**le conseil**] : l'open data constitue en soi une branche du droit à l'information avec des ramifications dans le droit administratif, le droit des sociétés, le droit de l'environnement ... savoir se frayer un chemin pour trouver quel levier activer, que ce soit pour publier ou rendre publique des donneés, ouvre des champs d'action nouveau.
+[...]
+
+1.  `r emo::ji("woman_teacher")` `r emo::ji("man_teacher")` .red[**la formation / la sensibilisation**] ;
+2.  `r emo::ji("male_detective")` `r emo::ji("flashlight")` .red[**la conciergerie**] ;
+3.  `r emo::ji("man_mechanic")` `r emo::ji("wrench")` .red[**l'outillage**] ;
+4.  `r emo::ji("man_singer")` `r emo::ji("woman_singer")` .red[**la médiation**] ;
+5.  `r emo::ji("tipping_hand_woman")` `r emo::ji("information")` .red[**le conseil**].
 
 ---
 
@@ -148,96 +150,142 @@ class: inverse, center, middle
 
 ---
 
-## Des briques plutôt que des calques
+## Des briques de service
+
+L'offre **.red[Données plaidoyer]** se compose d'un ensemble de *"briques"* correspondant aux besoins identifiés. Chacun de ces services modulaires peut être assemblé et complété par d'autres suivant la culture de l'organisation, son fonctionnement, ses besoins et son calendrier.
 
 La pertinence de l'utilisation de données doit être évaluée dans l'échange avec les membres de l'organisation : à la compétence interne sur les sujets et les cibles du plaidoyer, nous proposons d'apporter une expertise data sur trois principaux volets :
 * connaissance des outils ;
 * connaissance des méthodes ;
 * connaissance du cadre légal.
 
-1.  `r emo::ji("woman_teacher")` `r emo::ji("man_teacher")` .red[**la formation / la sensibilisation**] : data literacy, modalité de recours, traitement et visualisation des données ... l'acquisition de ces compétences permet aux équipes de mieux identifier et comprendre le potentiel des données et de les mobiliser à propos en interne et en externe ;
-2.  `r emo::ji("male_detective")` `r emo::ji("flashlight")` .red[**la conciergerie / la recherche et qualificaiton des données**] : identifier les sources pertinentes, évaluer la qualité des données, trouver les bons jeux ... la traduction des besoins d'information en modalités de recherche alimente et consolide le travail de documentation en assurant la fiabilité des informations utilisées ;
-3.  `r emo::ji("man_mechanic")` `r emo::ji("wrench")` .red[**l'outillage**] : un moteur de recherche sur mesure, une "moulinette" pour structurer une veille ... les instruments alimentés par la donnée permettent d'automatiser des tâches courantes et de rendre accessibles les informations clefs de l'action ou du message des organisations ;
-4.  `r emo::ji("man_singer")` `r emo::ji("woman_singer")` .red[**la médiation**] : organiser un hackathon, structurer une opération de crowdsourcing ou monter une conférence permettent de structurer le lien avec le grand public ou une communauté spécifique autour de la donnée ;
-5.  `r emo::ji("tipping_hand_woman")` `r emo::ji("information")` .red[**le conseil**] : l'open data constitue en soi une branche du droit à l'information avec des ramifications dans le droit administratif, le droit des sociétés, le droit de l'environnement ... savoir se frayer un chemin pour trouver quel levier activer, que ce soit pour publier ou rendre publique des donneés, ouvre des champs d'action nouveau.
-
-
 ---
-
+.center[
 ###  `r emo::ji("woman_teacher")` Formation et sensibilisation `r emo::ji("man_teacher")`
+]
 
-Data literacy, modalité de recours, traitement et visualisation des données ... l'acquisition de ces compétences permet aux équipes de mieux identifier et comprendre le potentiel des données et de les mobiliser à propos en interne et en externe.
-
-Offre
+**.red[L'acquisition d'une culture et de compétences liées à la donnée nous apparaît comme un préalable à tout projet de plaidoyer mobilisant la donnée]**. La connaissance des possibilités techniques, des outils disponibles et des expériences passées offre un cadre de réflexion qui facilite l'implication en interne, la prise de décision et l'autonomisation des équipes sur ces sujets.
+.center[
+### Notre offre
+]
+* **Formats** : d'une matinée à plusieurs jours;
+* **Public** : tout public (des novices aux data scientists);
+* **Compétences internes** : un datajournaliste, deux data scientists, une géomaticienne, trois consultant·e·s en politique publique.
+* **Thématiques** : data literacy, open data, sources de données, législation, droit d'accès à l'information, traitement de la donnée, visualisation de la donnée, data science.
+* **Livrables** : les supports de formation sont tous mis à disposition en accès libre sur notre Github sous licence Creative Commons.
 
 ---
 
-### Formation : Open data médias I & II
+### Ex. : Open data médias I & II
 
 ![](./img/opendatamedias2.png)
 
-Entre 2016 et 2018, Datactivist a conçu et animé deux programmes de formation à l'open data et au traitement des données à destination de la société civile d'Afrique francophone : [Open Data Médias 1](http://www.cfi.fr/fr/projet/opendata-medias) et [Open Data Médias 2](https://www.cfi.fr/fr/projet/opendata-medias-2).
-
-
-
-
+.footnote[Entre 2016 et 2018, Datactivist a conçu et animé pour l'agence **CFI Médias** deux programmes qui ont permis de former une trentaine de journalistes activistes de 13 pays d'Afrique francophone à l'open data et au traitement de données : [Open Data Médias 1](http://www.cfi.fr/fr/projet/opendata-medias) et [Open Data Médias 2](https://www.cfi.fr/fr/projet/opendata-medias-2).]
 
 ---
-
+.center[
 ### `r emo::ji("male_detective")` La conciergerie de données `r emo::ji("flashlight")`
+]
 
-Identifier les sources pertinentes, évaluer la qualité des données, trouver les bons jeux ... la traduction des besoins d'information en modalités de recherche alimente et consolide le travail de documentation en assurant la fiabilité des informations utilisées.
+**.red[L'utilisation de données ouvertes pour le plaidoyer et la communication vis-à-vis des adhérent·e·s ou donateur·rice·s offre conjointement crédibilité et transparence au propos]**. D'où l'importance d'une bonne traduction des questionnements en requête, une connaissance large des sources disponibles, une évaluation rigoureuse de la qualité des données et un nettoyage programmatique ... terme que nous avons réuni sous le vocable *.red[conciergerie de données]*.
 
-Offre
+.center[
+### Notre offre
+]
+* **Besoins** : rédaction de rapport, préparation de campagne, préparation de conférence, production de support.
+* **Thématiques** : économie, environnement, énergie, politiques publiques, santé, société, RSE ...
+* **Livrables** : les données sont transmises au format demandé et mises à disposition sur un portail d'open data sous licence Creative Commons avec documentation
+
+
+
 
 ---
 
-Exemple
+
+### Ex. : le Radar du Devoir de vigilance
+
+.pull-left[
+![](./img/ccfdsherpa_radarddv.png)
+]
+
+.pull-right[
+Dans le cadre de leur campagne sur la responsabilité sociale et environnementale des entreprises, **CCFD Terres Solidaires** et **Sherpa** ont fait appel à Datactivist pour établir une liste des entreprises concernées par la loi Devoir de vigilance : établissemnt d'une méthodologie, traitement des données, vérification et documentation.
+
+Ce travail a permis la rédaction du rapport [Le radar du devoir de vigilance](https://plan-vigilance.org/le-radar-du-devoir-de-vigilance/) et la mise en place d'un site de veille sur le sujet : [Plan-Vigilance.org](https://plan-vigilance.org).
+]
 
 ---
 
-
+.center[
 ### `r emo::ji("man_mechanic")` Création d'outils `r emo::ji("wrench")`
+]
 
-Un moteur de recherche sur mesure, une "moulinette" pour structurer une veille ... les instruments alimentés par la donnée permettent d'automatiser des tâches courantes et de rendre accessibles les informations clefs de l'action ou du message des organisations ;
+**.red[La création d'outils alimentés par des données ouvertes permet d'offrir des fonctionnalités avancées dans la collecte, traitement et exploration de données en les rendant durables et améliorables dans le temps]**.
 
+.center[
+### Notre offre
+]
+* **Besoins** : outils de veille, outils de recherche, datavisualisations interactives, interfaces de collecte ou d'exploration des données ;
+* **Outils** : R et Python (traitement des données), frameworks de recherche (Aleph) et de traitement du langage naturel (spaCy), CMS (Wordpress, Hugo ...) et autres outils via notre réseau.
+* **Compétences** : traitement de la donnée en interne et, en externe, réseau de développeur, designer et web designer ;
+* **Livrables** : l'outil est installé sur un serveur mis à disposition par le client et son code est mis à disposition sur une plateforme spécialisée sous licence Creative Commons et documenté.
 
-Offre
 
 ---
 
-Exemple
+### Ex. : De l'air pour nos enfants
+
+.pull-left[
+L'association **Respire** a fait appel à Datactivist pour réaliser une étude la qualité de l'air aux abords des écoles d'Île-de-France dans le cadre de sa campagne pour la mise en place de zones à faibles émissions. Assisté pour le webdesign par l'agence de développement informatique *Servebox*, notre équipe a traité et analysés les données et publié [une carte interactive](https://carte-des-ecoles.de-l-air-pour-nos-enfants.fr/) couvrant six années, trois polluants et tous les établissements, de la crèche au lycée. L'association a parallèllement publié [un rapport](https://www.respire-asso.org/carte-des-ecoles/) réalisé à partir de ces données.
+]
+
+.pull-right[
+![](img/respire-delair.png)
+]
 
 ---
-
-
-
+.center[
 ###  `r emo::ji("man_singer")` Médiation `r emo::ji("woman_singer")`
+]
 
-Organiser un hackathon, structurer une opération de crowdsourcing ou monter une conférence permettent de structurer le lien avec le grand public ou une communauté spécifique autour de la donnée.
+**.red[L'organisation d'un événement autour de la réutilisation ou de la publication des données permet de structurer la communauté autour d'un enjeu et d'identifier les contributeur·rice·s clefs pour promouvoir un plaidoyer et alimenter le débat public]**.
 
-
-
-Offre
+.center[
+### Notre offre
+]
+* **Formats** : hackathon, hackaviz, conférences, séminaires ... d'une demi-journée à trois jours d'événement ;
+* **Public** : tout public (grand public, institutionnels, professionnels d'un secteur ...) ;
+* **Prestation** : gestion de projet, communication, identification des publics, élaboration des règlements, rédaction des supports, logistique, animation ;
+* **Livrables** : un livret est rédigé à l'attention du client et/ou des participant·e·s établissant le bilan de l'événement (conclusions, déroulement, participation, axes forts, développements possibles).
 
 ---
 
-Exemple
+### Ex. : Hackathon Paris Peace Forum
+
+.pull-left[
+![](img/hackathon_ppf.jpg)
+]
+
+.pull-right[
+Datactivist a organisé et animé du 11 au 13 novembre 2018 [le hackathon de la conférence **Forum de Paris pour la paix**](https://parispeaceforum.org/fr/hackathon/) qui a rassemblé 65 participant·e·s et 15 mentors de 30 pays. Durant cet événement, les équipes ont produit des études et visualisations sur des thématiques telles que le budget des organisations internationales, le changement climatique et la transparence de la commande publique.
+]
 
 ---
 
-
+.center[
 ###  `r emo::ji("tipping_hand_woman")` Conseil `r emo::ji("information")`
-
-L'open data constitue en soi une branche du droit à l'information avec des ramifications dans le droit administratif, le droit des sociétés, le droit de l'environnement ... savoir se frayer un chemin pour trouver quel levier activer, que ce soit pour publier ou rendre publique des donneés, ouvre des champs d'action nouveau.
-
+]
 
 
-Offre
+
+.center[
+### Notre offre
+]
+* **Livrables** :
 
 ---
 
-Exemple
+Exemple de conseil
 
 
 
@@ -252,82 +300,53 @@ Cela se traduit concrètement par la documentation et la publication systématiq
 * nous rendons public le code de nos scripts et contribuons abondemment à des projets open source dans différents domaines ;
 * nous mettons les données produites avec et pour nos client·e·s sur des sites ou plateformes ouvertes sous des licences permettant leur libre réutilisation.
 
-Dans le cas des sujets de plaidoyer, **.red[l'open data et les licences ouvertes nous paraîssent des véhicules très puissants pour faire circuler les nouveaux outils et les nouveaux arguments pour nourrir l'action d'intérêt général]**.
+Dans le cas des sujets de plaidoyer, **.red[l'open data et les licences ouvertes nous paraîssent des véhicules puissants pour faire circuler les nouveaux outils et les nouveaux arguments pour nourrir l'action d'intérêt général]**.
 
 
 ---
 
 ## Modalités de financement
 
+Notre offre de service Données plaidoyer peut être mobilisée comme une simple prestation de service : à l'issue d'un entretien visant à établir les besoins et les éventuels chantiers, notre équipe établira un ou plusieurs devis suivant les actions envisagées avec le client en quantifiant notre travail en jour / personne. La prestation est ensuite facturée conformément au devis validé par le client.
+
+Mais du fait de l'objet de notre action (l'open data) et de la culture coopérative qui porte notre action, nous pensons utile et pertinent de proposer d'autres modes de financement de ce type d'action afin d'élargir l'accès à ce type de service tout en se rémunérant de notre travail :
+1. le financement par coalition ;
+2. un modèle d'abonnement.
 
 ---
 
-## Besoins de données
+### Financement par coalition
 
-Outre la diversité des sujets et des usages attendus, les typologies de besoins de données que nous avons pu identifier en échangeant avec nos intrelocuteur·rice·s variaient suivant trois paramètres principaux :
-1. **l'identification des sources** : là où certaines organisations avaient déjà en tête une liste précise, d'autres doutaient même de l'existence de bases de données rassemblant les données recherches ;
-2. **la dispersion de l'information** : par leur étendue thématique, historique, spatiale ou politique, certaines recherches nécessitaient structurellement un très grand nombre de sources, soit hétérogènes, soit très variées (que ce soit en format ou en producteur) ;
-3. **la définition des cibles** : les critères de définition des "cibles" variaient en précision. Soit parce que les méthodes de compilation brouillaient le lien entre entité réelle et donnée répertoriée. Soit parce que le résultat même de la recherche devait aider à préciser la nature du mécanisme.
+Les questions d'intérêt général mobilisant souvent plusieurs organisations d'un champs simultanément, la collecte, le traitement ou la diffusion de données sur ces débats nous apparaissent comme un bénéfice commun plutôt qu'un objet de concurrence.
 
---
+A ce titre, nous pensons pertinent et vertueux d'organiser des **.red[coalitions de plaidoyer par la donnée]**, capables de mettre en commun leurs interrogations, leurs calendriers et leurs moyens pour aider à la mobilisation des données dans leur champs.
 
-Nous avons résumé ces typologies en quatre cas types, correspondant à des problématiques évoquées par nos interlocuteur·rice·s.
-
-
----
-
-#### Une aiguille dans une botte de foin
-
-Les critères de recherche sont clairs mais la source est complexe et trop abondante pour être traitée manuellement.
-
-![](./img/aiguille_foin_1.jpg)
+Le modèle est celui des consortiums de journalistes qui fleurissent pour créer les synergies nécessaires à des enjeux globaux et techniquement complexes :
+* [Icij](https://www.icij.org/) qui a permis des révélations sur la fraude fiscale ;
+* [OCCRP](https://www.occrp.org/) qui soutient les enquêtes sur la corruption en Europe.
 
 
 ---
 
-#### Une aiguille dans plusieurs bottes de foin
+### Financement par abonnement
 
-Les informations à trouver sont bien déterminées mais les bases de données sont multiples en formats et en organisation : au temps de recherche manuel s'ajoute la nécessité d'établir des systèmes de comparaison fiables.
+Au delà des briques de service, nous souhaitons structurer notre offre de service pour les données d'intérêt général autour d'un modèle réactif et pérenne économiquement. En bref, **.red[faire de Données plaidoyer une plateforme de service par abonnement et de mise en commun des fruits des travaux effectués]**.
 
-![](./img/aiguille_foin_2.jpeg)
+[...]
 
----
-
-#### Une aiguille dans un champs de blé
-
-La forme des informations à récolter est définie mais aucune base de donnée n'est constituée a priori : des références existent de manière disparate sans socle commun, ni standard (articles de presse, publications officielles, post sur les réseaux sociaux, etc.).
-
-![](./img/aiguille_foin_3.jpeg)
 
 ---
-
-#### Des objets métalliques pointus de formes indéterminées dans des surfaces en polyculture maraichère
-Le type d'information à collecter n'est pas clairement défini et la nature des sources possibles non plus. Le problème n'est plus seulement ici de réaliser la recherche mais d'établir la forme des données existantes sur le sujet et d'établir le périmètre de recherche pour les trouver.
-
 .center[
-![](img/aiguille_foin_4.jpeg)
+### A suivre ...
+
+![](img/datactivist_equipe.png)
 ]
 
-.footnote[*Note : ces illustrations sont tirées des performances de l'artiste italien [Sven Sachsalber*](https://www.francetvinfo.fr/culture/apres-l-artiste-plus-de-17-heures-de-recherche-l-artiste-sven-sachsalber-a-trouve-une-aiguille-dans-une-botte-de-foin_744837.html).]
-
----
-
-## Usages de la donnée
-
-
-Outre la diversité des sujets et des usages attendus, les typologies de besoins de données que nous avons pu identifier en échangeant avec nos intrelocuteur·rice·s variaient suivant trois paramètres principaux :
-1. **l'identification des sources** : là où certaines organisations avaient déjà en tête une liste précise, d'autres doutaient même de l'existence de bases de données rassemblant les données recherches ;
-2. **la dispersion de l'information** : par leur étendue thématique, historique, spatiale ou politique, certaines recherches nécessitaient structurellement un très grand nombre de sources, soit hétérogènes, soit très variées (que ce soit en format ou en producteur) ;
-3. **la définition des cibles** : les critères de définition des "cibles" variaient en précision. Soit parce que les méthodes de compilation brouillaient le lien entre entité réelle et donnée répertoriée. Soit parce que le résultat même de la recherche devait aider à préciser la nature du mécanisme.
-
-
----
-
-# Notre équipe
+.footnote[Au travers ses activités et les profils qu'elle réunit, l'équipe de **.red[Datactivist]** souhaite apporter aux organisations de la société civile toutes les projets qu'elle développe : moteurs de recherche personnalisés, coopérative de données, outils de suivi des demandes d'ouverture de données ... Et bien d'autres idées dont nous avons hâte de vous parler !]
 
 ---
 class: inverse, center, middle
 
-# Merci !
+# Parlons-en !
 
 Contact : [sylvain@datactivist.coop](mailto:sylvain@datactivist.coop)
